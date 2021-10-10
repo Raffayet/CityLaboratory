@@ -1,0 +1,60 @@
+- !!deo1.ObradjeniPodaci
+  godisnjiKvartal: Q1
+  nizJedinstvenihKlijenata: [Istvan Halilovic, Aleksandar Vorkapic]
+  tipUzorka: mlecni
+  ukupnaCena: 5000.0
+- !!deo1.ObradjeniPodaci
+  godisnjiKvartal: Q1
+  nizJedinstvenihKlijenata: [Mihajlo Petrovic, Zorica Mihajlovic]
+  tipUzorka: animalni
+  ukupnaCena: 7500.0
+- !!deo1.ObradjeniPodaci
+  godisnjiKvartal: Q1
+  nizJedinstvenihKlijenata: [Zoran Stojanovski, Helena Grubac, Marko Mirkovic, Milica Rudnicki]
+  tipUzorka: pekarski
+  ukupnaCena: 11000.0
+- !!deo1.ObradjeniPodaci
+  godisnjiKvartal: Q2
+  nizJedinstvenihKlijenata: [Jovan Jovanovic]
+  tipUzorka: mlecni
+  ukupnaCena: 2000.0
+- !!deo1.ObradjeniPodaci
+  godisnjiKvartal: Q2
+  nizJedinstvenihKlijenata: [Jovana Stankovic]
+  tipUzorka: animalni
+  ukupnaCena: 1000.0
+- !!deo1.ObradjeniPodaci
+  godisnjiKvartal: Q2
+  nizJedinstvenihKlijenata: [Goran Vidmar]
+  tipUzorka: pekarski
+  ukupnaCena: 6000.0
+- !!deo1.ObradjeniPodaci
+  godisnjiKvartal: Q3
+  nizJedinstvenihKlijenata: [Lidija Dafinic]
+  tipUzorka: mlecni
+  ukupnaCena: 3000.0
+- !!deo1.ObradjeniPodaci
+  godisnjiKvartal: Q3
+  nizJedinstvenihKlijenata: [Nestor Pavlovic]
+  tipUzorka: animalni
+  ukupnaCena: 3300.0
+- !!deo1.ObradjeniPodaci
+  godisnjiKvartal: Q3
+  nizJedinstvenihKlijenata: [Zoran Stojanovski]
+  tipUzorka: pekarski
+  ukupnaCena: 6000.0
+- !!deo1.ObradjeniPodaci
+  godisnjiKvartal: Q4
+  nizJedinstvenihKlijenata: []
+  tipUzorka: mlecni
+  ukupnaCena: 0.0
+- !!deo1.ObradjeniPodaci
+  godisnjiKvartal: Q4
+  nizJedinstvenihKlijenata: [Milica Pavlovic, Violeta Velickovic]
+  tipUzorka: animalni
+  ukupnaCena: 7500.0
+- !!deo1.ObradjeniPodaci
+  godisnjiKvartal: Q4
+  nizJedinstvenihKlijenata: []
+  tipUzorka: pekarski
+  ukupnaCena: 0.0

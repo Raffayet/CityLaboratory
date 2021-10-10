@@ -1,0 +1,180 @@
+{"uzorci": [
+	           
+	{
+	  
+		"evidencioniBroj": "0001",
+		"tipUzorka": "mlecni",
+		"klijent": "Lidija Dafinic",
+		"datumIVremePrispeca": "02/08/2020 19:30",
+		"opisAnalize": "Imunoloska analiza sa krvnom slikom",
+		"cena": 3000
+	},
+
+	{
+		
+		"evidencioniBroj": "0002",
+		"tipUzorka": "animalni",
+		"klijent": "Nestor Pavlovic",
+		"datumIVremePrispeca": "01/07/2020 09:30",
+		"opisAnalize": "Dermatoloska analiza sa krvnom slikom",
+		"cena": 3300
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0003",
+		"tipUzorka": "animalni",
+		"klijent": "Milica Pavlovic",
+		"datumIVremePrispeca": "05/11/2020 09:30",
+		"opisAnalize": "Dermatoloska analiza sa slikom grudnog kosa",
+		"cena": 5000
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0004",
+		"tipUzorka": "pekarski",
+		"klijent": "Goran Vidmar",
+		"datumIVremePrispeca": "04/04/2020 09:30",
+		"opisAnalize": "Enzimi sa celijskom membranom",
+		"cena": 6000
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0005",
+		"tipUzorka": "mlecni",
+		"klijent": "Jovan Jovanovic",
+		"datumIVremePrispeca": "03/05/2020 06:30",
+		"opisAnalize": "Krvna slika - eritrociti",
+		"cena": 2000
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0006",
+		"tipUzorka": "animalni",
+		"klijent": "Jovana Stankovic",
+		"datumIVremePrispeca": "01/06/2020 11:00",
+		"opisAnalize": "Dermatoloska analiza bez krvne slike",
+		"cena": 1000
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0007",
+		"tipUzorka": "pekarski",
+		"klijent": "Zoran Stojanovski",
+		"datumIVremePrispeca": "02/01/2021 08:00",
+		"opisAnalize": "Limfociti",
+		"cena": 1600
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0008",
+		"tipUzorka": "pekarski",
+		"klijent": "Helena Grubac",
+		"datumIVremePrispeca": "02/01/2021 07:00",
+		"opisAnalize": "Holesterol",
+		"cena": 1800
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0009",
+		"tipUzorka": "pekarski",
+		"klijent": "Marko Mirkovic",
+		"datumIVremePrispeca": "06/01/2021 10:00",
+		"opisAnalize": "Limfociti",
+		"cena": 1600
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0010",
+		"tipUzorka": "animalni",
+		"klijent": "Mihajlo Petrovic",
+		"datumIVremePrispeca": "05/01/2021 11:00",
+		"opisAnalize": "Dermatoloska analiza sa slikom grudnog kosa",
+		"cena": 5000
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0011",
+		"tipUzorka": "mlecni",
+		"klijent": "Istvan Halilovic",
+		"datumIVremePrispeca": "04/01/2021 16:00",
+		"opisAnalize": "Krvna slika - eritrociti",
+		"cena": 2000
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0012",
+		"tipUzorka": "pekarski",
+		"klijent": "Zoran Stojanovski",
+		"datumIVremePrispeca": "03/09/2020 15:30",
+		"opisAnalize": "Enzimi sa celijskom membranom",
+		"cena": 6000
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0013",
+		"tipUzorka": "mlecni",
+		"klijent": "Aleksandar Vorkapic",
+		"datumIVremePrispeca": "01/01/2021 17:00",
+		"opisAnalize": "Imunoloska analiza sa krvnom slikom",
+		"cena": 3000
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0014",
+		"tipUzorka": "animalni",
+		"klijent": "Zorica Mihajlovic",
+		"datumIVremePrispeca": "04/01/2021 14:00",
+		"opisAnalize": "Hemoglobulini sa niskim padom",
+		"cena": 2500
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0015",
+		"tipUzorka": "animalni",
+		"klijent": "Violeta Velickovic",
+		"datumIVremePrispeca": "06/12/2020 18:00",
+		"opisAnalize": "Hemoglobulini sa niskim padom",
+		"cena": 2500
+
+	},
+	
+	{
+		
+		"evidencioniBroj": "0016",
+		"tipUzorka": "pekarski",
+		"klijent": "Milica Rudnicki",
+		"datumIVremePrispeca": "04/01/2021 11:20",
+		"opisAnalize": "Enzimi sa celijskom membranom",
+		"cena": 6000
+
+	}
+	
+	
+	]
+}
